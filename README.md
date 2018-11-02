@@ -1,4 +1,5 @@
 # MGAN
 
-Data for our AAAI'19 paper "Hierarchical Attention Transfer Network for Cross-domain Sentiment Classification",
+Data for our AAAI'19 paper "Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification".
+
 
