@@ -32,7 +32,7 @@ inst3: ID1/sentence1/aspect3/label3
 
 The sentence containing multiple aspects are arranged together.
 
-####Label Mapping
+#### Label Mapping
 
 positive: 1 neutral: 0 negative: -1
 
