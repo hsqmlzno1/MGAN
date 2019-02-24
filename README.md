@@ -1,4 +1,25 @@
 # MGAN
 
-Data for our AAAI'19 paper "Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification".
+Data for our AAAI'19 paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://arxiv.org/abs/1811.10999)".
 
+
+A new, large-scale (100k for each domain), multi-domain, aspect-category (AC) level corpus, which acts as highly beneficial source domains to improve the learning in the task of aspect-term level (AT) sentiment analysis.
+
+Even with a simple attention-based model for the AT task, our method can achieve the STOA performances by leveraging the knowledge distilled from the AC task.
+
+
+Data resource will be released soon~.
+
+
+# Citation
+
+If the data is useful for your research, please be kindly to give us stars and cite our paper as follows:
+
+```
+@article{li2018exploiting,
+  title={Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification},
+  author={Li, Zheng and Wei, Ying and Zhang, Yu and Zhang, Xiang and Li, Xin and Yang, Qiang},
+  journal={arXiv preprint arXiv:1811.10999},
+  year={2018}
+}
+```
