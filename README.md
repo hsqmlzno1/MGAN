@@ -2,13 +2,38 @@
 
 Data for our AAAI'19 paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://arxiv.org/abs/1811.10999)".
 
+### 2019/02/24 Update: Data resource has been released now!
 
-A new, large-scale (100k for each domain), multi-domain, aspect-category (AC) level corpus, which acts as highly beneficial source domains to improve the learning in the task of aspect-term level (AT) sentiment analysis.
+
+# Descriptions
+
+This dataset acts as highly beneficial source domains to improve the learning of more fine-grained aspect-term level (AT) sentiment analysis. The dataset has three characteristics:
+
+Large-scale: 100k for each domain
+
+Multi-domain: Restaurant, Hotel, Beautyspa
+
+Aspect-category (AC): Coarse-grained asepct
+
 
 Even with a simple attention-based model for the AT task, our method can achieve the STOA performances by leveraging the knowledge distilled from the AC task.
 
+# Data format
+Each instance behaves as the format below:
 
-Data resource will be released soon~.
+inst1: ID1/sentence1/aspect1/label1
+
+inst2: ID1/sentence1/aspect2/label2
+
+inst3: ID1/sentence1/aspect3/label3
+
+....
+
+The sentence containing multiple aspects are arraged together.
+
+Label Meaning
+
+positive: 1 neutral: 0 negative: -1
 
 
 # Citation
