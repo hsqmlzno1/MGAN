@@ -10,11 +10,11 @@ Data for our AAAI'19 paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-
 
 This dataset acts as highly beneficial source domains to improve the learning of more fine-grained aspect-term level (AT) sentiment analysis. The dataset has three characteristics:
 
-Large-scale: 100k for each domain
+#### Large-scale: 100k for each domain
 
-Multi-domain: Restaurant, Hotel, Beautyspa
+#### Multi-domain: Restaurant, Hotel, Beautyspa
 
-Aspect-category (AC): Coarse-grained asepct
+#### Aspect-category (AC): Coarse-grained asepct
 
 
 Even with a simple attention-based model for the AT task, our method can achieve the STOA performances by leveraging the knowledge distilled from the AC task.
