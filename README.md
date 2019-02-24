@@ -2,7 +2,8 @@
 
 Data for our AAAI'19 paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://arxiv.org/abs/1811.10999)".
 
-### 2019/02/24 Update: Data resource has been released now!
+#### 2019/02/24 Update: Data resource has been released now! More details will be updated.
+
 
 
 # Descriptions
@@ -29,9 +30,9 @@ inst3: ID1/sentence1/aspect3/label3
 
 ....
 
-The sentence containing multiple aspects are arraged together.
+The sentence containing multiple aspects are arranged together.
 
-Label Meaning
+####Label Mapping
 
 positive: 1 neutral: 0 negative: -1
 
