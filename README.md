@@ -32,10 +32,13 @@ inst3: ID1/sentence1/aspect3/label3
 
 The sentence containing multiple aspects are arranged together.
 
-# Example
+### Example
 0H0FwmPY78v_5u51r2TQrw	i did n't dislike the food , but the menu is n't exactly cohesive ... pizza and asian cuisine .	FOOD_SELECTION	 -1 
+
 0H0FwmPY78v_5u51r2TQrw	i did n't dislike the food , but the menu is n't exactly cohesive ... pizza and asian cuisine .	FOOD_FOOD_DISH	 -1 
+
 0H0FwmPY78v_5u51r2TQrw	i did n't dislike the food , but the menu is n't exactly cohesive ... pizza and asian cuisine .	RESTAURANT_CUSINE	 -1 
+
 0H0FwmPY78v_5u51r2TQrw	i did n't dislike the food , but the menu is n't exactly cohesive ... pizza and asian cuisine .	FOOD_FOOD	 1 
 
 #### Label Mapping
