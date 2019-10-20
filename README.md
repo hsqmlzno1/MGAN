@@ -1,6 +1,6 @@
 # MGAN
 
-Data for our AAAI'19 paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://arxiv.org/abs/1811.10999)".
+Data for our AAAI'19, oral paper "[Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification](https://arxiv.org/abs/1811.10999)".
 
 #### 2019/02/24 Update: Data resource has been released now! More details will be updated.
 
