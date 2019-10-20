@@ -43,7 +43,7 @@ The sentence containing multiple aspects are arranged together.
 
 #### Label Mapping
 
-positive: 1 neutral: 0 negative: -1
+positive: 1   neutral: 0  negative: -1
 
 
 # Citation
