@@ -54,7 +54,7 @@ If the data is useful for your research, please be kindly to give us stars and c
 @article{li2018exploiting,
   title={Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification},
   author={Li, Zheng and Wei, Ying and Zhang, Yu and Zhang, Xiang and Li, Xin and Yang, Qiang},
-  journal={arXiv preprint arXiv:1811.10999},
-  year={2018}
+  conference = {AAAI Conference on Artificial Intelligence},
+  year={2019}
 }
 ```
